@@ -60,4 +60,4 @@
     "57: المغير",
     "58: المنيعة"
   ];
-window.wilayasList = wilayasList;
+window.wilayasList = wilaya;
