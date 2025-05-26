@@ -58,4 +58,4 @@
       "57: المغير": { default: "950", stopdesk: "850" },
       "58: المنيعة": { default: "850", stopdesk: "750" }
     };
-window.deliveryPrices = deliveryPrices;
+window.prices = prices;
